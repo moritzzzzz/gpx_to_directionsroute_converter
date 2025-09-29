@@ -1,6 +1,6 @@
 # GPX to Mapbox DirectionsRoute Converter
 
-A Python script that converts GPX files to Mapbox DirectionsRoute JSON format for turn-by-turn navigation with the Mapbox Navigation SDK. The converter generates realistic navigation instructions with properly positioned voice announcements and creates an interactive HTML visualization.
+Python script that converts GPX files to Mapbox DirectionsRoute JSON format for turn-by-turn navigation with the Mapbox Navigation SDK. The converter generates realistic navigation instructions with properly positioned voice announcements and creates an interactive HTML visualization.
 
 ## Features
 
